@@ -1,1 +1,1 @@
-# journalstic
+# journalstic-app-api
